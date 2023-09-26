@@ -1,15 +1,18 @@
-# Day #10
 
 ### Weather App
-In this tutorial ([Open in Youtube](https://youtu.be/iILFBGm_I9M)),  I am gonna showing to you how to code a weather app with javascript. in this tutorial also we use a weather api and we get data from api❗️
+This is a simple Weather web app, build with HTML, Css and JavaScript.
 
 ## Warning
-You need to get your own api key (in video we showed how!) and replace it in index.js file on line 9 :
+You need to get your own api key and replace it in index.js file on line 7 :
 
 ```javascript
-const APIKey = 'Your Api Key';
+const APIKey = '';
 ```
 
+## How to use
+You can get weather details by clicking on geolocation icon or filling any city name in input field.
+
+For changing temperature value between Celsius and Fahrenheit, you can click on the temperature.
 
 # Screenshot
 Here we have project screenshot :

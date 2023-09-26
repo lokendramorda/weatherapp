@@ -9,8 +9,6 @@ const APIKey = '';
 let isCelsius = true;
 let maintemp =0;
 
-
-
 locationIcon.addEventListener('click', () => {
     const inputField = document.querySelector('.search-box input');
     inputField.value = '';
